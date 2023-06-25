@@ -1,2 +1,4 @@
-github.com/konduruganesh/puppy v0.0.0-20230610132333-80fa70df55a2 h1:IztIJuLN1VlgqHNvK+197kQuT1vIYIS1JyTqLO2olbk=
-github.com/konduruganesh/puppy v0.0.0-20230610132333-80fa70df55a2/go.mod h1:+5sAbfFmgBuwqgiUGlOwGykHVDMumydt8Wb0ojeAY2U=
+github.com/konduruganesh/dognew v0.0.0-20230623072534-bb9e72b70dca h1:KIuyxEJuuEPjkwBijn/DcraKZfFDuAuXfbZxuEioXPE=
+github.com/konduruganesh/dognew v0.0.0-20230623072534-bb9e72b70dca/go.mod h1:zc5M91k5u3Kjcy5y3oi68zMgQKFajxwCtWjb45zj8ZQ=
+github.com/konduruganesh/puppy v0.0.0-20230623072819-707c914979ac h1:5dALXSEJATenJe+kvLAUM+139PmAMJB/OBEB1Ii708o=
+github.com/konduruganesh/puppy v0.0.0-20230623072819-707c914979ac/go.mod h1:wsMFJVBul2Mjs+SnxaqgTCZa+UV6j6t0M209mL7JMq8=
